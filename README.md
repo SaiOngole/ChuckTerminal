@@ -1,2 +1,4 @@
 # ChuckTerminal
 A simple python script that gets a joke each time it is run
+
+Include "python chuck.py" in your bash profile and voila! Each time you open a new window or a tab, the terminal greets you with a Chuck Norris joke!
